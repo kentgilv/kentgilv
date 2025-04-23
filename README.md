@@ -22,7 +22,7 @@ Applications
 1. Github
 2. Visual Studio Code
 
-### Design Skills
+## Design Skills
 
 Areas
 1. Web Design
