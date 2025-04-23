@@ -5,7 +5,7 @@ I'm Kent Valencia, a BSIT student specializing in Web and Mobile Applications.
 
 ## Education
 College: FEU Institute of Technology
-Program: BSITWMA | Bachelor of Information and Technology with Specialization in Web and Mobile Application
+Program: BSITWMA | Bachelor of Information and Technology with Specialization in Web and Mobile Application  
 Year: 2023 - Ongoing
 
 ## Tech Skills
