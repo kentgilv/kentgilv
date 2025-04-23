@@ -1,16 +1,38 @@
-## Hi there 👋
+# About Me
+Hi and good day! 
 
-<!--
-**kentgilv/kentgilv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kent Valencia, a BSIT student specializing in Web and Mobile Applications.
 
-Here are some ideas to get you started:
+## Education
+College: FEU Institute of Technology
+Program: BSITWMA | Bachelor of Information and Technology with Specialization in Web and Mobile Application
+Year: 2023 - Ongoing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Skills
+
+Languages
+1. HTML
+2. CSS
+3. JavaScript
+4. Python
+5. Java
+6. C++
+
+Applications
+1. Github
+2. Visual Studio Code
+
+### Design Skills
+
+Areas
+1. Web Design
+2. Graphic Design
+3. Photography
+4. Video Editing
+
+Applications
+1. Adobe Photoshop
+2. Adobe Premiere
+3. Adobe Illustrator
+
+
